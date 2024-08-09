@@ -16,6 +16,6 @@
 ![GUI](GUI.png)
 
 Физическая схема:
-![ArduinoScheme](ArduinoScheme.png)
+![SchemeArduino](SchemeArduino.png)
 
 Более подробное описание находится в .pdf-файле.
